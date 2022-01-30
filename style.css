@@ -1,0 +1,56 @@
+nav { 
+padding-top:10px;
+padding-bottom:10px;
+padding-left:20px;
+padding-right:20px;
+text-align:right;
+margin-bottom:25px;
+border-bottom:1px solid blue
+}
+
+.nav-link { margin-right:15px;
+background-color:white;
+color:black;
+ }
+h1 { text-align:center;
+}
+.lrps { text-align:center; font-size:30px;  
+margin:0px;
+color:white;
+ }
+
+.eu { 
+width:600px; display:block;
+margin-left:auto;
+margin-right:auto; }
+.img { text-align:center; }
+
+.lucrare { display:flex;
+justify-content:space-around;
+align-items:center;
+margin-top:25px; }
+
+.img-lucrare {
+height:600px;
+transition:width .25s
+}
+
+.text-lucrare {
+ display:inline-block;
+}
+
+.text-lucrare span {
+color:red;
+}
+
+body{
+background-image:url("https://images.pexels.com/photos/2469122/pexels-photo-2469122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+}
+.p1 {
+color:white
+}
+
+.p2{
+color:white;
+font-size:20px
+}
